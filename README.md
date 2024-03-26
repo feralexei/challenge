@@ -1,1 +1,1 @@
-# challenge
+# Migthy Ducks Hockey League
